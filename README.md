@@ -1,1 +1,1 @@
-# image-restoration-pipeline
+# image-generation-pipeline
