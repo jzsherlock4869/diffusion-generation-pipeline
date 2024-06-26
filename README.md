@@ -1,1 +1,1 @@
-# image-generation-pipeline
+# Diffusion Generation Pipeline
